@@ -10,7 +10,7 @@ resul = 1
 if numero == 1:
          resul = 1
 
-if numero == 0:
+elif numero == 0:
          resul = 1
 
 while (numero != 0) and (numero != 1) :
@@ -25,7 +25,7 @@ resulDois = 1
 if numeroDois == 1:
          resulDois = 1
 
-if numeroDois == 0:
+elif numeroDois == 0:
          resulDois = 1
 
 while (numeroDois != 0) and (numeroDois != 1) :
@@ -40,7 +40,7 @@ resulTres = 1
 if numeroTres == 1:
          resulTres = 1
 
-if numeroTres == 0:
+elif numeroTres == 0:
          resulTres = 1
 
 while (numeroTres != 0) and (numeroTres != 1) :
